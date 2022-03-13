@@ -1,0 +1,12 @@
+                       Staff Information
+
+
+
+1.Pion
+Total(5)
+
+2.Nurse
+Total(20)
+
+3.Cleaner
+Total(20)

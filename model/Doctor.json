@@ -1,0 +1,19 @@
+[
+    {
+       "Serial":"1",
+	   "name":"NameDr.Sohel Taj",
+       "Designation":"Designation:Medical officer",
+	   "Degree":"Degree:MBBS,BCS Health",
+	   "Email":"Email:sohel22@gmail.com",
+	   "Contact":"Contact:0919237473"
+    },
+	{
+       "Serial":"2",
+	   "name":"Name:Dr.Rumana Bari Nipa",
+       "Designation":"Designation:Medical officer",
+	   "Degree":"Degree:MBBS,BCS Health",
+	   "Email":"Email:rumanal22@gmail.com",
+	   "Contact":"Contact:0919237473"
+    }
+
+]
